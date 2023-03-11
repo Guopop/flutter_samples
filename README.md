@@ -2,4 +2,4 @@
 
 | 组件 | 路径 |
 | ---- | ---- |
-| DataTable     | [DataTable](datable)     |
+| DataTable     | [DataTable](datable/)     |
